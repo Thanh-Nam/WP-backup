@@ -1,0 +1,382 @@
+# Translation of Plugins - MB Custom Post Types &amp; Custom Taxonomies - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - MB Custom Post Types &amp; Custom Taxonomies - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-09 01:38:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - MB Custom Post Types &amp; Custom Taxonomies - Stable (latest release)\n"
+
+#: src/Edit.php:40
+msgid "Upgrade now"
+msgstr "Nâng cấp ngay"
+
+#: src/Edit.php:37
+msgid "Create frontend templates"
+msgstr "Tạo các mẫu giao diện"
+
+#: src/Edit.php:34
+msgid "Add custom fields to terms and users"
+msgstr "Thêm trường tuỳ biến cho các mục phân loại và người dùng"
+
+#: src/Edit.php:33
+msgid "Create custom fields with UI"
+msgstr "Tạo trường tuỳ biến qua giao diện"
+
+#: src/Edit.php:31
+msgid "Upgrade now to have more features & speedy technical support:"
+msgstr "Nâng cấp ngay để có thêm nhiều tính năng và được hỗ trợ kỹ thuật:"
+
+#: src/Edit.php:25
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#. Plugin Name of the plugin
+#: mb-custom-post-type.php
+msgid "MB Custom Post Types & Custom Taxonomies"
+msgstr "MB Custom Post Types & Custom Taxonomies"
+
+#: src/About.php:12
+msgid "Post Types & Taxonomies"
+msgstr "Post Types & Taxonomies"
+
+#: src/Edit.php:131
+msgid "Do not show in the admin menu"
+msgstr "Không hiển thị trên admin menu"
+
+#. Translators: %s is the main menu label.
+#: src/Edit.php:139
+msgid "Show as sub-menu of %s"
+msgstr "Hiển thị là sub-menu của %s"
+
+#: src/Edit.php:127
+msgid "Show as top-level menu"
+msgstr "Hiển thị là top-level menu"
+
+#: src/Edit.php:38
+msgid "And much more!"
+msgstr "Và nhiều nữa!"
+
+#: src/Edit.php:36
+msgid "Create frontend submission forms"
+msgstr "Tạo form đăng bài ngoài frontend"
+
+#: src/Edit.php:35
+msgid "Create custom settings pages"
+msgstr "Tạo trang tuỳ chỉnh"
+
+#. Translators: %s is the link to the documentation.
+#: src/About.php:44
+msgid "Confused when to use custom taxonomy vs. custom fields? <a href=\"%s\" target=\"_blank\">Read this tutorial</a>."
+msgstr "Bối rối khi sử dụng phân loại và trường tuỳ biến? <a href=\"%s\" target=\"_blank\">Xem hướng dẫn</a>."
+
+#: src/About.php:28
+msgid "Create your first custom taxonomy to organize your content into groups that you can query to show them in the frontend."
+msgstr "Tạo mục phân loại đầu ngay để sắp xếp nội dung của bạn thành từng nhóm mà bạn có thể lấy và hiển thị ngoài frontend."
+
+#: src/About.php:27
+msgid "Create Custom Taxonomies"
+msgstr "Tạo các mục phân loại"
+
+#: src/About.php:24 src/About.php:30
+msgid "Start Now"
+msgstr "Bắt đầu"
+
+#: src/About.php:22
+msgid "Create your first custom post type to add more custom content (which is not post or page) to your WordPress website."
+msgstr "Tạo loại nội dung tuỳ biến để thêm nhiều nội dung hơn (không phải là bài viết và trang) cho website WordPress của bạn."
+
+#: src/About.php:21
+msgid "Create Custom Post Types"
+msgstr "Tạo nội dung tuỳ biến"
+
+#. Author of the plugin
+#: mb-custom-post-type.php
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. translators: %1$s: Number of items, %2$s: Name of the post type in singular
+#. or plural form.
+#: src/PostTypeRegister.php:252
+msgid "%1$s %2$s updated."
+msgstr "%1$s %2$s đã được cập nhật."
+
+#. Description of the plugin
+#: mb-custom-post-type.php
+msgid "Create custom post types and custom taxonomies with easy-to-use UI"
+msgstr "Tạo nội dung tuỳ biến và các mục phân loại với giao diện kéo thả"
+
+#. translators: %s: Name of the taxonomy in singular and plural form.
+#: src/TaxonomyRegister.php:211
+msgid "%s taxonomy restored from the Trash."
+msgid_plural "%s taxonomies restored from the Trash."
+msgstr[0] "%s mục phân loại đã được phục hồi từ Thùng rác."
+
+#. translators: %s: Name of the taxonomy in singular and plural form.
+#: src/TaxonomyRegister.php:203
+msgid "%s taxonomy updated."
+msgid_plural "%s taxonomies updated."
+msgstr[0] "Mục phân loại %s đã được cập nhật."
+
+#. translators: %s: Name of the taxonomy in singular and plural form.
+#: src/TaxonomyRegister.php:205
+msgid "%s taxonomy not updated, somebody is editing."
+msgid_plural "%s taxonomies not updated, somebody is editing."
+msgstr[0] "Phân loại %s chưa được cập nhật, ai đó đang sửa nó."
+
+#. translators: %s: Name of the taxonomy in singular and plural form.
+#: src/TaxonomyRegister.php:207
+msgid "%s taxonomy permanently deleted."
+msgid_plural "%s taxonomies permanently deleted."
+msgstr[0] "Phân loại %s đã được xóa vĩnh viễn."
+
+#. translators: %s: Name of the taxonomy in singular and plural form.
+#: src/TaxonomyRegister.php:209
+msgid "%s taxonomy moved to the Trash."
+msgid_plural "%s taxonomies moved to the Trash."
+msgstr[0] "Phân loại %s đã được chuyển tới Thùng rác."
+
+#. translators: %s: Date and time of the revision.
+#: src/TaxonomyRegister.php:194
+msgid "Taxonomy draft updated."
+msgstr "Phân loại nháp đã được cập nhật."
+
+#. translators: %s: Date and time of the revision.
+#: src/TaxonomyRegister.php:193
+msgid "Taxonomy scheduled for: <strong>%s</strong>."
+msgstr "Phân loại đã được cập nhật lúc: <strong>%s</strong>."
+
+#: src/TaxonomyRegister.php:191
+msgid "Taxonomy submitted."
+msgstr "Phân loại đã được gửi."
+
+#: src/TaxonomyRegister.php:190
+msgid "Taxonomy saved."
+msgstr "Phân loại đã được lưu."
+
+#. translators: %s: Date and time of the revision.
+#: src/TaxonomyRegister.php:189
+msgid "Taxonomy published."
+msgstr "Phân loại đã được đăng."
+
+#. translators: %s: Date and time of the revision.
+#: src/TaxonomyRegister.php:188
+msgid "Taxonomy restored to revision from %s."
+msgstr "Phân loại được khôi phục từ phiên bản %s."
+
+#: src/TaxonomyRegister.php:183 src/TaxonomyRegister.php:186
+msgid "Taxonomy updated."
+msgstr "Phân loại đã được cập nhật."
+
+#: src/TaxonomyRegister.php:50
+msgid "Search Taxonomy"
+msgstr "Tìm kiếm mục phân loại"
+
+#: src/TaxonomyRegister.php:49
+msgid "View Taxonomy"
+msgstr "Xem mục phân loại"
+
+#: src/TaxonomyRegister.php:48
+msgid "Update Taxonomy"
+msgstr "Cập nhật phân loại"
+
+#: src/TaxonomyRegister.php:47
+msgid "Edit Taxonomy"
+msgstr "Sửa phân loại"
+
+#: src/TaxonomyRegister.php:44
+msgid "Add New Taxonomy"
+msgstr "Thêm phân loại mới"
+
+#: src/TaxonomyRegister.php:45 src/TaxonomyRegister.php:46
+msgid "New Taxonomy"
+msgstr "Phân loại mới"
+
+#: src/TaxonomyRegister.php:42
+msgid "Parent Taxonomy:"
+msgstr "Phân loại cha:"
+
+#: src/TaxonomyRegister.php:41
+msgid "Taxonomy"
+msgstr "Phân loại"
+
+#: src/TaxonomyRegister.php:39
+msgctxt "Taxonomy Singular Name"
+msgid "Taxonomy"
+msgstr "Phân loại"
+
+#: src/TaxonomyRegister.php:38
+msgctxt "Taxonomy General Name"
+msgid "Taxonomies"
+msgstr "Phân loại"
+
+#: src/TaxonomyRegister.php:40 src/TaxonomyRegister.php:43
+#: src/TaxonomyRegister.php:55 assets/post-type.js:1
+msgid "Taxonomies"
+msgstr "Phân loại"
+
+#. translators: %s: Post link, %s: View post text, %s: Post type label.
+#: src/PostTypeRegister.php:210
+msgid "View %s"
+msgstr "Xem %s"
+
+#. translators: %s: Post link, %s: Preview post text, %s: Post type label.
+#: src/PostTypeRegister.php:217
+msgid "Preview %s"
+msgstr "Xem trước %s"
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:179
+msgid "%s saved."
+msgstr "%s đã lưu."
+
+#. translators: %1$s: Name of the custom post type in singular form, %2$s:
+#. Revision title.
+#. translators: %s: Date and time of the revision.
+#: src/PostTypeRegister.php:183 src/TaxonomyRegister.php:193
+msgid "M j, Y @ G:i"
+msgstr "j M Y @ G:i"
+
+#: src/PostTypeRegister.php:171 src/TaxonomyRegister.php:185
+msgid "Custom field deleted."
+msgstr "Trường tùy chỉnh đã xóa."
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:169 src/PostTypeRegister.php:173
+msgid "%s updated."
+msgstr "%s đã cập nhật."
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:170 src/TaxonomyRegister.php:184
+msgid "Custom field updated."
+msgstr "Trường tùy chỉnh đã cập nhật."
+
+#: src/PostTypeRegister.php:14
+msgid "Post Type"
+msgstr "Loại Bài viết"
+
+#: src/PostTypeRegister.php:24 src/TaxonomyRegister.php:51
+#: assets/post-type.js:1 assets/taxonomy.js:1
+msgid "Not found"
+msgstr "Không tìm thấy"
+
+#. Author URI of the plugin
+#: mb-custom-post-type.php
+msgid "https://metabox.io"
+msgstr "http://metabox.io"
+
+#. Plugin URI of the plugin
+#: mb-custom-post-type.php
+msgid "https://metabox.io/plugins/custom-post-type/"
+msgstr "https://metabox.io/plugins/custom-post-type/"
+
+#. translators: %1$s: Number of items, %2$s: Name of the post type in singular
+#. or plural form.
+#: src/PostTypeRegister.php:260
+msgid "%1$s %2$s restored from the Trash."
+msgstr "%1$s %2$s đã được khôi phục từ Thùng rác."
+
+#. translators: %1$s: Number of items, %2$s: Name of the post type in singular
+#. or plural form.
+#: src/PostTypeRegister.php:258
+msgid "%1$s %2$s moved to the Trash."
+msgstr "%1$s %2$s đã được đưa vào Thùng rác."
+
+#. translators: %1$s: Number of items, %2$s: Name of the post type in singular
+#. or plural form.
+#: src/PostTypeRegister.php:256
+msgid "%1$s %2$s permanently deleted."
+msgstr "%1$s %2$s đã được xóa vĩnh viễn."
+
+#. translators: %1$s: Number of items, %2$s: Name of the post type in singular
+#. or plural form.
+#: src/PostTypeRegister.php:254
+msgid "%1$s %2$s not updated, somebody is editing."
+msgstr "%1$s %2$s chưa được cập nhật, có ai đó đang sửa."
+
+#: src/PostTypeRegister.php:230
+msgid "post types"
+msgstr "Loại bài viết"
+
+#: src/PostTypeRegister.php:229
+msgid "post type"
+msgstr "Loại bài viết"
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:185
+msgid "%s draft updated."
+msgstr "%s nháp đã được cập nhật."
+
+#. translators: %1$s: Name of the custom post type in singular form, %2$s:
+#. Revision title.
+#: src/PostTypeRegister.php:183
+msgid "%1$s scheduled for: <strong>%2$s</strong>."
+msgstr "%1$s đã được lên lịch lúc: <strong>%2$s</strong>."
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:181
+msgid "%s submitted."
+msgstr "%s đã được gửi."
+
+#. translators: %s: Name of the custom post type in singular form.
+#: src/PostTypeRegister.php:177
+msgid "%s published."
+msgstr "%s đã được đăng."
+
+#. translators: %1$s: Name of the custom post type in singular form, %2$s:
+#. Revision title.
+#: src/PostTypeRegister.php:175
+msgid "%1$s restored to revision from %2$s."
+msgstr "%1$s được khôi phục từ biên bản %2$s."
+
+#: src/PostTypeRegister.php:21
+msgid "Update Post Type"
+msgstr "Cập nhật loại bài viết"
+
+#: src/PostTypeRegister.php:22
+msgid "View Post Type"
+msgstr "Xem loại bài viết"
+
+#: src/PostTypeRegister.php:23
+msgid "Search Post Type"
+msgstr "Tìm loại bài viết"
+
+#: src/PostTypeRegister.php:20
+msgid "Edit Post Type"
+msgstr "Sửa loại bài viết"
+
+#: src/PostTypeRegister.php:18 src/PostTypeRegister.php:19
+msgid "New Post Type"
+msgstr "Loại bài viết mới"
+
+#: src/PostTypeRegister.php:17
+msgid "Add New Post Type"
+msgstr "Thêm loại bài viết mới"
+
+#: src/PostTypeRegister.php:15
+msgid "Parent Post Type:"
+msgstr "Loại bài viết cha:"
+
+#: src/PostTypeRegister.php:12
+msgctxt "Post Type Singular Name"
+msgid "Post Type"
+msgstr "Loại bài viết"
+
+#: src/PostTypeRegister.php:11
+msgctxt "Post Type General Name"
+msgid "Post Types"
+msgstr "Loại bài viết"
+
+#: src/PostTypeRegister.php:25 src/TaxonomyRegister.php:52
+#: assets/post-type.js:1
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong Thùng rác"
+
+#: src/PostTypeRegister.php:13 src/PostTypeRegister.php:16
+#: src/PostTypeRegister.php:28 assets/taxonomy.js:1
+msgid "Post Types"
+msgstr "Loại bài viết"
